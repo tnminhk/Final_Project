@@ -1,13 +1,13 @@
 Final Project ( 02/2024-07/2024 ) 
-•	Hệ thống giám sát trẻ em thông qua camera: 
+-Hệ thống giám sát trẻ em thông qua camera: 
 Thiết kế hệ thống giám sát an toàn của trẻ nhỏ trong gia đình.Hệ thống nhận diện trẻ em có khả năng gặp nguy hiểm qua camera và thông báo cho người dùng thông qua ứng dụng di động.
-•	Số lượng người tham gia:2 
-•	Vị trí: Thiết kế ứng dụng di động 
-•	Đặc trưng: 
--Áp dụng mô hình MobileNet SSD để phát hiện và định vị các đối tượng.
--Sử dụng thư viện MediaPipe BlazePose để ước tính tư thế và vị trí của đối tượng.Phân tích các tình huống nguy hiểm như đối tượng đi vào vùng cấm hoặc bị té ngã.
--Cung cấp giao diện người dùng trên ứng dụng di động để cấu hình và giám sát cảnh báo.
--Cho phép người dùng vẽ vùng cảnh báo trên màn hình.
--Tự động phát hiện và cảnh báo khi đối tượng đi vào vùng cấm hoặc bị té ngã.
--Giám sát và cảnh báo kịp thời các tình huống nguy hiểm có thể xảy ra với trẻ em.
--Giúp phụ huynh có thể giám sát con cái một cách linh hoạt và hiệu quả.
+-Số lượng người tham gia:2 
+-Vị trí: Thiết kế ứng dụng di động 
+-Đặc trưng: 
+Áp dụng mô hình MobileNet SSD để phát hiện và định vị các đối tượng.
+Sử dụng thư viện MediaPipe BlazePose để ước tính tư thế và vị trí của đối tượng.Phân tích các tình huống nguy hiểm như đối tượng đi vào vùng cấm hoặc bị té ngã.
+Cung cấp giao diện người dùng trên ứng dụng di động để cấu hình và giám sát cảnh báo.
+Cho phép người dùng vẽ vùng cảnh báo trên màn hình.
+Tự động phát hiện và cảnh báo khi đối tượng đi vào vùng cấm hoặc bị té ngã.
+Giám sát và cảnh báo kịp thời các tình huống nguy hiểm có thể xảy ra với trẻ em.
+Giúp phụ huynh có thể giám sát con cái một cách linh hoạt và hiệu quả.
